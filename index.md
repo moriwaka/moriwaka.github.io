@@ -8,12 +8,6 @@
 * [はじめて触るRHEL GUI環境](./Presentation/RHEL/rhel_gui.pdf) GNOMEのちょっと独特なところと小技
 * [Red Hat Enterprise Linux を使う前に読む資料](./Presentation/bootcamp/rhel-tt.pdf)  1時間強で詰め込みたいとき用
 
-## 認証基盤
-* [Red Hat Identity Management(IdM)ご紹介](./Presentation/IdM/idm_sales.pdf)
-* [Red Hat Enterprise Linuxの認証基盤 Identity Management](./Presentation/IdM/idm_intro.pdf)
-* [Red Hat Identity Management の利用前にチェックするべき項目](./Presentation/IdM/idm_checklist.pdf)
-* [Linux での近代的な認証基盤を実現する FreeIPA](./Presentation/IdM/freeipa_1hour.pdf)
-
 ## Red Hat Enterprise Linux 8
 
 ### 全体的な紹介
@@ -38,11 +32,16 @@
 * [Image Builder (RHTN)](./Presentation/RHEL8/RHTN/imagebuilder.pdf)
 
 ## RHELのセキュリティ
-
 ### アップデートを適用する
 * [OSS利用時のセキュリティ基本のキ](./Presentation/Security/oss_secure.pdf)
 * [Red Hat Enterprise Linux の修正はどのように出荷されるか](./Presentation/Security/rhel-updates-knowledge.pdf)
 * [RHEL を定期的にアップデートする際の課題と対策](./Presentation/Security/update_solutions.pdf)
+
+### RHELの認証基盤
+* [Red Hat Identity Management(IdM)ご紹介](./Presentation/IdM/idm_sales.pdf)
+* [Red Hat Enterprise Linuxの認証基盤 Identity Management](./Presentation/IdM/idm_intro.pdf)
+* [Red Hat Identity Management の利用前にチェックするべき項目](./Presentation/IdM/idm_checklist.pdf)
+* [Linux での近代的な認証基盤を実現する FreeIPA](./Presentation/IdM/freeipa_1hour.pdf)
 
 ### 個別機能
 * [Network Bound Disk Encryptionとは](./Presentation/Security/NBDE.pdf)
