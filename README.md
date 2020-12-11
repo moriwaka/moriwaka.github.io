@@ -1,2 +1,2 @@
 # moriwaka.github.io
-moriawka's github page http://moriwaka.github.io 
+moriwaka's github page http://moriwaka.github.io 
