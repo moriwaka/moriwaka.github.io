@@ -1,0 +1,52 @@
+# 資料おきば
+
+## ビギナー向け
+* [RHELを使いはじめる時の留意点](./Presentation/RHEL/beginner/rhel-atfirst.pdf) 実際に触る人むけ
+* [RHELを買う前に知っておきたいこと](./Presentation/RHEL/beginner/rhel-prebuy.pdf) 買うときに必要なポイント
+* [RHEL資料の探しかたとよく参照される資料](./Presentation/RHEL/beginner/rhel-references.pdf) 頻出資料リンク&紹介
+* [RHELのサブスクリプション管理](./Presentation/RHEL/beginner/rhel-subscription.pdf) サブスクリプション登録、管理の仕組み
+* [はじめて触るRHEL GUI環境](./Presentation/RHEL/rhel_gui.pdf) GNOMEのちょっと独特なところと小技
+* [Red Hat Enterprise Linux を使う前に読む資料](./Presentation/bootcamp/rhel-tt.pdf)  1時間強で詰め込みたいとき用
+
+## 認証基盤
+* [Red Hat Identity Management(IdM)ご紹介](./Presentation/IdM/idm_sales.pdf)
+* [Red Hat Enterprise Linuxの認証基盤 Identity Management](./Presentation/IdM/idm_intro.pdf)
+* [Red Hat Identity Management の利用前にチェックするべき項目](./Presentation/IdM/idm_checklist.pdf)
+* [Linux での近代的な認証基盤を実現する FreeIPA](./Presentation/IdM/freeipa_1hour.pdf)
+
+## Red Hat Enterprise Linux 8
+
+### 全体的な紹介
+* [Red Hat Enterprise Linux 8 ご紹介 (RHEL 8.2版)](./Presentation/RHEL8/rhel8_summary_82.pdf)
+* [Red Hat Enterprise Linux 8 の嬉しいところ](./Presentation/RHEL8/rhel8_for_whom.pdf)
+
+### ポリシーとか
+* [Application Streams と、yum の module](./Presentation/RHEL8/appstream_and_module_and_scl.pdf)
+* [Q&A でわかるRed Hat Universal Base Image でどこまでやっていい ?](./Presentation/RHEL8/ubi_faq.pdf)
+
+### 個別機能
+* [Red Hat Enterprise Linux 8 のWeb Console (Cockpit)](./Presentation/RHEL8/cockpit-all.pdf)
+* [システム全体の暗号化ポリシー設定](./Presentation/RHEL8/crypto-policies.pdf)
+* [Image Builder](./Presentation/RHEL8/imagebuilder.pdf)
+* [Red Hat Enterprise Linux 8 のライフサイクルを理解する](./Presentation/RHEL8/rhel8lifecycle.pdf)
+* [端末のセッション記録](./Presentation/RHEL8/tlog.pdf)
+* [systemdエッセンシャル](./Presentation/RHEL8/systemd/systemd.pdf) ← systemdでハマったときに見当がつくようにするためのトレーニング資料
+
+### イベントむけ
+* [コンテナに デーモン入れて .service 化 (RHEL好きの会)](./Presentation/RHEL8/container_service.pdf)
+* [flatpak (RHTN)](./Presentation/RHEL8/RHTN/flatpak.pdf)
+* [Image Builder (RHTN)](./Presentation/RHEL8/RHTN/imagebuilder.pdf)
+
+## RHELのセキュリティ
+
+### アップデートを適用する
+* [OSS利用時のセキュリティ基本のキ](./Presentation/Security/oss_secure.pdf)
+* [Red Hat Enterprise Linux の修正はどのように出荷されるか](./Presentation/Security/rhel-updates-knowledge.pdf)
+* [RHEL を定期的にアップデートする際の課題と対策](./Presentation/Security/update_solutions.pdf)
+
+### 個別機能
+* [Network Bound Disk Encryptionとは](./Presentation/Security/NBDE.pdf)
+* [OpenSCAP + SCAP Security Guide でポリシー遵守をらくにしよう](./Presentation/Security/openscap.pdf)
+* [明日はじめる SELinux](./Presentation/SELinux/hajimeru_selinux.pdf)
+* [SELinux の利用とポリシー作成](./Presentation/SELinux/selinux_useage_and_policy.pdf)
+* [SELinuxってなあに](./Presentation/SELinux/selinux_intro.pdf) ← firewallにたとえてSELinuxの位置づけを言うだけ
