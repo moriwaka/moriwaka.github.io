@@ -31,6 +31,9 @@
 * [flatpak (RHTN)](./Presentation/RHEL8/RHTN/flatpak.pdf)
 * [Image Builder (RHTN)](./Presentation/RHEL8/RHTN/imagebuilder.pdf)
 
+### ハンズオンラボ
+* [RHEL 8をブラウザから簡単に触ってみられるラボサイト](https://sites.google.com/view/explore-rhel8)
+
 ## RHELのセキュリティ
 ### アップデートを適用する
 * [OSS利用時のセキュリティ基本のキ](./Presentation/Security/oss_secure.pdf)
