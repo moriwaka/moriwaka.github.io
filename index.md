@@ -12,6 +12,7 @@
 
 ### 全体的な紹介
 * [Red Hat Enterprise Linux 8 ご紹介 (RHEL 8.2版)](./Presentation/RHEL8/rhel8_summary_82.pdf)
+* [Red Hat Enterpries Linux 8.3最新情報](./Presentation/RHEL8/RHEL 8.3最新情報.pdf)
 * [Red Hat Enterprise Linux 8 の嬉しいところ](./Presentation/RHEL8/rhel8_for_whom.pdf)
 
 ### ポリシーとか
