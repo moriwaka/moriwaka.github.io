@@ -16,8 +16,10 @@
 * [Red Hat Enterprise Linux 8 の嬉しいところ](./Presentation/RHEL8/rhel8_for_whom.pdf)
 
 ### ポリシーとか
-* [Application Streams と、yum の module](./Presentation/RHEL8/appstream_and_module_and_scl.pdf)
-* [Q&A でわかるRed Hat Universal Base Image でどこまでやっていい ?](./Presentation/RHEL8/ubi_faq.pdf)
+* [Application Streams と、yum の module](./Presentation/RHEL8/appstream_and_module_and_scl.pdf) Application Streamという名前が複数の意味で登場してややこしいので整理
+* [Q&A でわかるRed Hat Universal Base Image でどこまでやっていい ?](./Presentation/RHEL8/ubi_faq.pdf) RHELの一部をコンテナのベースイメージとして使えるRed Hat UBIのリミット
+* [PAYGとCloud Access比較](./Presentation/RHEL/PAYGとCloud Access比較.pdf) クラウドプロバイダでの購入タイプによる違い
+
 
 ### 個別機能
 * [Red Hat Enterprise Linux 8 のWeb Console (Cockpit)](./Presentation/RHEL8/cockpit-all.pdf)
