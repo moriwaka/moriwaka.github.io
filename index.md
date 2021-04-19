@@ -16,6 +16,7 @@
 * [Red Hat Enterprise Linux 8 の嬉しいところ](./Presentation/RHEL8/rhel8_for_whom.pdf)
 
 ### ポリシーとか
+* [Red Hat Enterprise Linux ライフサイクル EUS, AUS, ELSの考え方](./Presentation/RHEL8/rhel-lifecycle.pdf)  [動画](https://www.youtube.com/watch?v=aDNvSxgEw60)
 * [Application Streams と、yum の module](./Presentation/RHEL8/appstream_and_module_and_scl.pdf) Application Streamという名前が複数の意味で登場してややこしいので整理
 * [Q&A でわかるRed Hat Universal Base Image でどこまでやっていい ?](./Presentation/RHEL8/ubi_faq.pdf) RHELの一部をコンテナのベースイメージとして使えるRed Hat UBIのリミット
 * [PAYGとCloud Access比較](./Presentation/RHEL/PAYGとCloud%20Access比較.pdf) クラウドプロバイダでの購入タイプによる違い
