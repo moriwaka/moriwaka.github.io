@@ -22,7 +22,9 @@
 
 
 ### 個別機能
+* [RHEL 8.5から登場したRed Hat Connector](./Presentation/RHEL/red_hat_connector.pdf)
 * [Red Hat Enterprise Linux 8 のWeb Console (Cockpit)](./Presentation/RHEL8/cockpit-all.pdf)
+* [Web Consoleを使う](./Presentation/RHEL8/Web_Consoleを使う.pdf)
 * [システム全体の暗号化ポリシー設定](./Presentation/RHEL8/crypto-policies.pdf)
 * [Image Builder](./Presentation/RHEL8/imagebuilder.pdf)
 * [Red Hat Enterprise Linux 8 のライフサイクルを理解する](./Presentation/RHEL8/rhel8lifecycle.pdf)
