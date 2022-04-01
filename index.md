@@ -23,6 +23,7 @@
 
 ### 個別機能
 * [RHEL 8.5から登場したRed Hat Connector](./Presentation/RHEL/red_hat_connector.pdf)
+* [Red Hat Insightsご紹介](./Presentation/RHEL/RedHatInsights202107.pdf) [動画](https://www.youtube.com/watch?v=dzFTtY0OCF8)
 * [Red Hat Enterprise Linux 8 のWeb Console (Cockpit)](./Presentation/RHEL8/cockpit-all.pdf)
 * [Web Consoleを使う](./Presentation/RHEL8/Web_Consoleを使う.pdf)
 * [システム全体の暗号化ポリシー設定](./Presentation/RHEL8/crypto-policies.pdf)
