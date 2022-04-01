@@ -20,6 +20,9 @@
 * [Application Streams と、yum の module](./Presentation/RHEL8/appstream_and_module_and_scl.pdf) Application Streamという名前が複数の意味で登場してややこしいので整理
 * [Q&A でわかるRed Hat Universal Base Image でどこまでやっていい ?](./Presentation/RHEL8/ubi_faq.pdf) RHELの一部をコンテナのベースイメージとして使えるRed Hat UBIのリミット
 
+### サブスクリプション管理
+* [Cloud Access時のサブスクリプション管理](./Presentation/RHEL/Cloud_Access_subscription.pdf)
+* [Simple Content AccessとSubscription Service](./Presentation/RHEL/Simple_Content_Access_and_Subscription_Service.pdf) [動画](https://www.youtube.com/watch?v=v59lHliN69U)
 
 ### 個別機能
 * [RHEL 8.5から登場したRed Hat Connector](./Presentation/RHEL/red_hat_connector.pdf)
