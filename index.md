@@ -41,7 +41,7 @@
 * [Image Builder (RHTN)](./Presentation/RHEL8/RHTN/imagebuilder.pdf)
 
 ### ハンズオンラボ
-* [RHEL 8をブラウザから簡単に触ってみられるラボサイト](https://sites.google.com/view/explore-rhel8)
+* [RHEL 8をブラウザから簡単に触ってみられるラボサイト](https://lab.redhat.com/) ※ 日本語版は諸事情でなくなりました
 
 ## RHELのセキュリティ
 ### アップデートを適用する
