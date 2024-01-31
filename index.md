@@ -1,4 +1,6 @@
-# 資料おきば
+# もうメンテナンスされていません。元資料おきば
+
+2022年までに作った資料をおいています。メンテナンスされていません。
 
 ## ビギナー向け
 * [RHELを使いはじめる時の留意点](./Presentation/RHEL/beginner/rhel-atfirst.pdf) 実際に触る人むけ
@@ -9,6 +11,8 @@
 * [Red Hat Enterprise Linux を使う前に読む資料](./Presentation/bootcamp/rhel-tt.pdf)  1時間強で詰め込みたいとき用
 
 ## Red Hat Enterprise Linux 8
+
+RHEL8は8.10出荷のタイミングでフルサポートが終了します。今後はRHEL9以降を検討することをお勧めします。
 
 ### 全体的な紹介
 * [Red Hat Enterprise Linux 8 ご紹介 (RHEL 8.2版)](./Presentation/RHEL8/rhel8_summary_82.pdf)
